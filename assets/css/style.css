@@ -1340,6 +1340,10 @@ color: #777777;
   background: #fc9c04;
 }
 
+section#contact-us {
+  min-height: calc(100vh - 321px);
+}
+
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
